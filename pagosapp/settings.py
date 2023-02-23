@@ -116,8 +116,8 @@ DATABASES = {
         'NAME': env('DATABASE_NAME'),
         'USER': env('DATABASE_USER'),
         'PASSWORD': env('DATABASE_PASS'),
-        'HOST': 'containers-us-west-150.railway.app',
-        'PORT': '5943'
+        'HOST': 'ccontainers-us-west-85.railway.app',
+        'PORT': '7113'
     }
     #         'default': {
     #     'ENGINE': 'django.db.backends.sqlite3',
