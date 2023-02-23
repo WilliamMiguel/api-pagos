@@ -116,7 +116,7 @@ DATABASES = {
         'NAME': env('DATABASE_NAME'),
         'USER': env('DATABASE_USER'),
         'PASSWORD': env('DATABASE_PASS'),
-        'HOST': 'ccontainers-us-west-85.railway.app',
+        'HOST': 'containers-us-west-85.railway.app',
         'PORT': '7113'
     }
     #         'default': {
